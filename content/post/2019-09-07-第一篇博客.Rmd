@@ -1,0 +1,10 @@
+---
+title: "第一篇博客"
+author: "Rongdong Li"
+date: '2019-09-07'
+slug: 第一篇博客
+tags:
+- R Markdown
+- plot
+categories: R
+---
