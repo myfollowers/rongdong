@@ -1,6 +1,6 @@
-baseurl = "/"
+baseurl = "http://rongdong.rbind.io/"
 languageCode = "en-us"
-title = "A Hugo website"
+title = "Rongdong"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
