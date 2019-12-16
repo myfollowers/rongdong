@@ -1,0 +1,12 @@
+---
+title: try a micre
+author: 一只会的猪
+date: '2019-12-16'
+slug: try-a-micre
+categories:
+  - R
+tags:
+  - R Markdown
+---
+# plot
+明天会更好
